@@ -50,12 +50,10 @@
   ],
   "navigation": [
     {
-      "group": "Get Begin",
+      "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development",
-        "something"
+        "quickstart"
       ]
     },
     {
