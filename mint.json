@@ -67,8 +67,8 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "development",
-        "quickstart"
+        "quickstart",
+        "development"
       ]
     },
     {
