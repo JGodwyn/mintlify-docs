@@ -5,6 +5,7 @@
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
+  
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
@@ -15,6 +16,7 @@
       "to": "#07C983"
     }
   },
+
   "topbarLinks": [
     {
       "name": "Support",
@@ -25,10 +27,12 @@
       "url": "https://linktr.ee/gdwn__"
     }
   ],
+
   "topbarCtaButton": {
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
+
   "tabs": [
     {
       "name": "API Reference",
@@ -39,6 +43,7 @@
       "url": "essentials"
     }
   ],
+
   "anchors": [
     {
       "name": "Documentation",
@@ -56,13 +61,14 @@
       "url": "https://mintlify.com/blog"
     }
   ],
+
   "navigation": [
     {
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "development",
+        "quickstart"
       ]
     },
     {
