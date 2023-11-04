@@ -21,8 +21,8 @@
       "url": "mailto:hi@mintlify.com"
     },
     {
-        "name": "Files",
-        "url" : "https://linktr.ee/gdwn__"
+      "name": "Files",
+      "url": "https://linktr.ee/gdwn__"
     }
   ],
   "topbarCtaButton": {
@@ -32,6 +32,10 @@
   "tabs": [
     {
       "name": "API Reference",
+      "url": "api-reference"
+    },
+    {
+      "name": "Another",
       "url": "api-reference"
     }
   ],
