@@ -29,7 +29,20 @@
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
-
+  "tabs": [
+    {
+      "name": "API Reference",
+      "url": "api-reference"
+    },
+    {
+      "name": "Essentials",
+      "url": "essentials"
+    },
+    {
+      "name": "Payment",
+      "url": "payment"
+    }
+  ],
   "anchors": [
     {
       "name": "Documentation",
