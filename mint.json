@@ -37,6 +37,10 @@
     {
       "name": "Essentials",
       "url": "essentials"
+    },
+    {
+      "name": "Payment",
+      "url": "payment"
     }
   ],
   "anchors": [
@@ -87,6 +91,12 @@
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
+      ]
+    },
+    {
+      "group": "Payment info",
+      "pages": [
+        "payment/payment-info"
       ]
     }
   ],
